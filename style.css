@@ -3,7 +3,8 @@
     /* margin: 5px; */
 /* } */
 body{
-    background-color: #999999
+    background-color: #999999;
+    font-family: "Montserrat";
 }
 ul{
     list-style: none;
@@ -12,7 +13,7 @@ ul{
     width: 900px;
     padding-bottom: 100px; 
     padding-left: 600px;
-    font-family: sans-serif;
+    font-family: "Montserrat";
     
 }
 #mainmenu li{
@@ -32,13 +33,13 @@ ul{
 }
 #head{
     font-size: 30px;
-    font-family:fantasy;
+    font-family:"Montserrat";
     line-height: 40px;
     color: #31415a;
 }
 #para{
     font-size: 20px;
-    font-family: sans-serif;
+    font-family: "Montserrat";
 }
 #heading{
     background-color:#333333;
