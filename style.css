@@ -90,3 +90,13 @@ ul{
 #col{
     color: #31415a;
 }
+
+#gallery-img{
+    width: 500px;
+    height: 300px;
+}
+
+#index-img{
+    width: 300px;
+    height: 250px;
+}
