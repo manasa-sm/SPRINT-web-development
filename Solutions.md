@@ -2,6 +2,9 @@
 changed src of all images to 'Images/img.jpg'
 ![image](https://user-images.githubusercontent.com/54235627/126573472-45f71590-9f18-42c8-8283-d9300ec3ca9b.png)
 
+## Navbar not looking good. #2
+![image](https://user-images.githubusercontent.com/54235627/126597343-7bca5bd3-82d6-4b5a-b497-5a3672346eba.png)
+
 ## Use a better font. #3
 Added Montserrat from Google Fonts
 ![image](https://user-images.githubusercontent.com/54235627/126573310-4beb2011-a2d1-490a-88d5-d3dcf590da63.png)
@@ -23,3 +26,4 @@ Enhanced the meta description in all the pages. Bolded few texts. Added more key
 ## Links not opening in the same tab. #9
 changed target="_blank" to target="_self"
 https://user-images.githubusercontent.com/54235627/126573235-b888fafd-0f63-4483-915b-b2bcb320ea21.mp4
+
