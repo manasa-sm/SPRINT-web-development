@@ -10,6 +10,7 @@ Added Montserrat from Google Fonts
 ## Separate CSS from HTML files. make sure it still works. #4
 Removed few css styles from images i.e height and width and added it to styles.css
 
+## Make a good footer, use icons and links related to Virat Kohli. #5
 
 
 ## Links not opening in the same tab. #9

@@ -3,11 +3,18 @@
     /* margin: 5px; */
 /* } */
 body{
-    background-color: #999999;
+    background-color: #fff;
     font-family: "Montserrat";
 }
 ul{
     list-style: none;
+}
+i{
+    padding-left: 20px;
+    color:#31415a;
+}
+i:hover{
+  color: #999999;
 }
 #mainmenu{
     width: 900px;
@@ -78,6 +85,8 @@ ul{
 }
 #social{
     text-decoration: none;
+    padding-top: 70px;
+    padding-bottom: 70px;
 }
 #q{
     font-size: 50px;
@@ -101,3 +110,4 @@ ul{
     width: 300px;
     height: 250px;
 }
+
