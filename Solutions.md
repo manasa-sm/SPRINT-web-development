@@ -11,8 +11,11 @@ Added Montserrat from Google Fonts
 Removed few css styles from images i.e height and width and added it to styles.css
 
 
+## Do SEO in the website. #8
+Enhanced the meta description in all the pages. Bolded few texts. Added more keywords. All images use alt. 
+![image](https://user-images.githubusercontent.com/54235627/126574922-edb0f1e1-a801-4e80-9a0b-0c7738b567a5.png)
+
 
 ## Links not opening in the same tab. #9
 changed target="_blank" to target="_self"
 https://user-images.githubusercontent.com/54235627/126573235-b888fafd-0f63-4483-915b-b2bcb320ea21.mp4
-
