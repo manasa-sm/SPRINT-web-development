@@ -11,6 +11,9 @@ Added Montserrat from Google Fonts
 Removed few css styles from images i.e height and width and added it to styles.css
 
 ## Make a good footer, use icons and links related to Virat Kohli. #5
+https://user-images.githubusercontent.com/54235627/126595656-6a28cb87-8a1b-4d57-9d3c-bdacb7701f3f.mp4
+
+
 
 ## Do SEO in the website. #8
 Enhanced the meta description in all the pages. Bolded few texts. Added more keywords. All images use alt. 
